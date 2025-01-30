@@ -20,3 +20,6 @@ old-versions分支存放所有笔记的旧版本，原则上仅存放每个大�
 [人造语言笔记仓](https://github.com/WseriesY/multilang-resource/tree/constructed-languages)
 [自然语言笔记仓](https://github.com/WseriesY/multilang-resource/tree/natural-languages)
 [旧版本笔记仓](https://github.com/WseriesY/multilang-resource/tree/old-versions)
+
+### 返回爱好橱窗
+[橱窗主页](https://wseriesy.github.io/)
