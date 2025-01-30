@@ -14,8 +14,6 @@ old-versions分支存放所有笔记的旧版本，原则上仅存放每个大�
 3. 请不要通过本仓文档以外的途径传播信息笔记中包含待定方案或暂行方案的内容，以防引发误会。
 4. 本仓所有分支提供的所有文档均使用CC BY-NC-SA 4.0许可。本仓提供的所有笔记文档仅供个人使用与无偿分享，不得商用。
 
-最近更新于2025-01-30 11:11 (GMT+8)
-
 ### 仓库链接
 [人造语言笔记仓](https://github.com/WseriesY/multilang-resource/tree/constructed-languages)
 [自然语言笔记仓](https://github.com/WseriesY/multilang-resource/tree/natural-languages)
@@ -23,3 +21,5 @@ old-versions分支存放所有笔记的旧版本，原则上仅存放每个大�
 
 ### 返回爱好橱窗
 [橱窗主页](https://wseriesy.github.io/)
+
+最近更新于2025-01-30 14:11 (GMT+8)
