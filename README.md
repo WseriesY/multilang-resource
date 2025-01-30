@@ -17,4 +17,4 @@ old-versions分支存放所有笔记的旧版本，原则上仅存放每个大�
 最近更新于2025-01-30 11:11 (GMT+8)
 
 ### 仓库链接（试行）
-[人造语言笔记仓]([url](https://github.com/WseriesY/multilang-resource/tree/constructed-languages))
+[人造语言笔记仓](https://github.com/WseriesY/multilang-resource/tree/constructed-languages)
