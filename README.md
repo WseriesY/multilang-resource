@@ -5,7 +5,7 @@
 另外，本人自己创造的语言也会以“学习笔记”的形式存放在人造语言分支中。
 这些学习笔记中都包含了一些本人（作者）自己的观察与见解。
 
-笔记文档见本仓的各个分支。natural-languages分支存放自然语言的最新版笔记，homemade languages分支存放自制人造语言的最新版笔记，constructed-languages分支存放其他人造语言的最新版笔记。
+笔记文档见本仓的各个分支。natural-languages分支存放自然语言的最新版笔记，homemade-languages分支存放自制人造语言的最新版笔记，constructed-languages分支存放其他人造语言的最新版笔记。
 old-versions分支存放所有笔记的旧版本，原则上仅存放每个大版本号最后一次更新的笔记。
 
 ### 仓内文档说明
