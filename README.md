@@ -15,7 +15,7 @@ old-versions分支存放所有笔记的旧版本，原则上仅存放每个大�
 4. 本仓所有分支提供的所有文档均使用CC BY-NC-SA 4.0许可。本仓提供的所有笔记文档仅供个人使用与无偿分享，不得商用。
 
 ### 仓库链接
-[自创人造语言笔记仓](https://github.com/WseriesY/multilang-resource/tree/homemade-languages)
+[自创人造语言笔记仓](https://github.com/WseriesY/multilang-resource/tree/self-created-languages)
 [其他人造语言笔记仓](https://github.com/WseriesY/multilang-resource/tree/constructed-languages)
 [自然语言笔记仓](https://github.com/WseriesY/multilang-resource/tree/natural-languages)
 [旧版本笔记仓](https://github.com/WseriesY/multilang-resource/tree/old-versions)
