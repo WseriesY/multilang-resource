@@ -15,7 +15,7 @@ old-versions分支存放所有笔记的旧版本，原则上仅存放每一代�
 ### 资讯
 JoshuaWillow自创人造语言语法读本《遐蝶语笔记》发布。
 
-看官可点击下面“自创人造语言笔记仓”仓库以了解读本详情。
+看官可点击下面“自创人造语言笔记仓”仓库入口以了解读本详情。
 
 ### 仓库说明
 1. old-versions分支内，封面标识为Note的是普通笔记（含本人自己创造的语言）。封面标识为Heart的是手写笔记。封面标识为Info的是信息笔记。
@@ -23,7 +23,7 @@ JoshuaWillow自创人造语言语法读本《遐蝶语笔记》发布。
 3. 请不要通过本仓文档以外的途径传播信息笔记中包含待定方案或暂行方案的内容，以防引发误会。
 4. 本人对本仓提供的所有内容中有独创性的部分保留所有权利。本仓提供的所有文档仅供个人使用与无偿分享，不得商用。
 
-### 仓库链接
+### 仓库入口
 [自创人造语言笔记仓](https://github.com/WseriesY/multilang-resource/tree/self-created-languages)
 [其他人造语言笔记仓](https://github.com/WseriesY/multilang-resource/tree/constructed-languages)
 [自然语言笔记仓](https://github.com/WseriesY/multilang-resource/tree/natural-languages)
@@ -31,6 +31,6 @@ JoshuaWillow自创人造语言语法读本《遐蝶语笔记》发布。
 
 返回爱好橱窗：[橱窗主页](https://wseriesy.github.io/)
 
-最近更新于：2026-07-27 周一 10:05 (GMT+8) 🕙🏞️
+最近更新于：2026-07-28 周二 00:35 (GMT+8) 🕧🌉
 
 时间绘文字注记：🌅：早晨；🏞️：上午；🏙️：中午；⛱️：下午；🌇：傍晚；🌃：上半夜；🌉：半夜或下半夜。绘文字注记仅对应更新时的实际天色情况。
